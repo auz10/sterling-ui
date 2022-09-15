@@ -1,0 +1,28 @@
+{
+  "name": "@sterling-ui/button",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Austin <austin@auzt.in>",
+  "homepage": "https://github.com/auz10/sterling-ui#readme",
+  "license": "ISC",
+  "module": "dist/button.js",
+  "main": "dist/button.js",
+  "directories": {
+    "lib": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auz10/sterling-ui.git"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "test": "node ./__tests__/button.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/auz10/sterling-ui/issues"
+  }
+}

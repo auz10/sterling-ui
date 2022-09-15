@@ -8,11 +8,11 @@
   "module": "dist/avatar.js",
   "main": "dist/avatar.js",
   "directories": {
-    "lib": "lib",
+    "lib": "src",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src"
   ],
   "scripts": {
     "build": "rollup -c",
