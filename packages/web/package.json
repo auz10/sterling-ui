@@ -26,5 +26,9 @@
   "gitHead": "7039e8bf3759f20a410ceb13936206a7f46c7781",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@sterling-ui/avatar": "^0.0.12",
+    "@sterling-ui/button": "^0.0.12"
   }
 }
