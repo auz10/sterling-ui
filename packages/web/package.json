@@ -1,0 +1,26 @@
+{
+  "name": "@sterling/web",
+  "version": "0.0.7",
+  "description": "> TODO: description",
+  "author": "Austin <austin@auzt.in>",
+  "homepage": "https://github.com/auz10/sterling-ui#readme",
+  "license": "ISC",
+  "main": "lib/web.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auz10/sterling-ui.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/web.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/auz10/sterling-ui/issues"
+  }
+}
