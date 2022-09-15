@@ -1,6 +1,6 @@
 {
   "name": "@sterling-ui/avatar",
-  "version": "0.0.6",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "Austin <austin@auzt.in>",
   "homepage": "",
@@ -8,11 +8,11 @@
   "module": "dist/avatar.js",
   "main": "dist/avatar.js",
   "directories": {
-    "lib": "src",
+    "lib": "lib",
     "test": "__tests__"
   },
   "files": [
-    "src"
+    "lib"
   ],
   "scripts": {
     "build": "rollup -c",

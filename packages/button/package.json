@@ -8,11 +8,11 @@
   "module": "dist/button.js",
   "main": "dist/button.js",
   "directories": {
-    "lib": "src",
+    "lib": "lib",
     "test": "__tests__"
   },
   "files": [
-    "src"
+    "lib"
   ],
   "repository": {
     "type": "git",
