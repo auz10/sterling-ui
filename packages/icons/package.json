@@ -5,7 +5,7 @@
   "author": "Austin <austin@auzt.in>",
   "homepage": "https://github.com/auz10/sterling-ui#readme",
   "license": "ISC",
-  "main": "lib/",
+  "main": "dist/",
   "directories": {
     "lib": "lib"
   },
