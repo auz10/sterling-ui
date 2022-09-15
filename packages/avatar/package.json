@@ -27,7 +27,7 @@
     "rollup": "^2.79.0",
     "typescript": "^4.8.3"
   },
-  "gitHead": "02439fa69cb6eca9c3e2a0ba874ac47019c66e72",
+  "gitHead": "941662b4186e880b035bf2dfc1981b490430a542",
   "publishConfig": {
     "access": "public"
   }
