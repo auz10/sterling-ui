@@ -22,5 +22,9 @@
   },
   "bugs": {
     "url": "https://github.com/auz10/sterling-ui/issues"
+  },
+  "gitHead": "02439fa69cb6eca9c3e2a0ba874ac47019c66e72",
+  "publishConfig": {
+    "access": "public"
   }
 }
