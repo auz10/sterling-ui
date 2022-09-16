@@ -1,6 +1,6 @@
 {
   "name": "@sterling-ui/web",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "> TODO: description",
   "author": "Austin <austin@auzt.in>",
   "homepage": "https://github.com/auz10/sterling-ui#readme",
@@ -28,7 +28,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@sterling-ui/avatar": "^0.0.16",
-    "@sterling-ui/button": "^0.0.16"
+    "@sterling-ui/avatar": "^0.0.17",
+    "@sterling-ui/button": "^0.0.17"
   }
 }
