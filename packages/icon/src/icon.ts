@@ -9,6 +9,6 @@ export class Icon extends LitElement {
   @property({ type: String }) icon = "";
 
   render() {
-    return html`<img src="../icons/dist/${this.icon}" />`;
+    return html`<img src="${this.icon}" />`;
   }
 }
